@@ -1,15 +1,15 @@
 [submodule "wine"]
 	path = wine
-	url = ../wine
+	url = https://github.com/ValveSoftware/wine.git
 [submodule "dxvk"]
 	path = dxvk
 	url = https://github.com/doitsujin/dxvk.git
 [submodule "openvr"]
 	path = openvr
-	url = https://github.com/ValveSoftware/openvr
+	url = https://github.com/ValveSoftware/openvr.git
 [submodule "fonts/liberation-fonts"]
 	path = fonts/liberation-fonts
-	url = https://github.com/liberationfonts/liberation-fonts
+	url = https://github.com/liberationfonts/liberation-fonts.git
 [submodule "gstreamer"]
 	path = gstreamer
 	url = https://github.com/GStreamer/gstreamer.git
@@ -18,40 +18,40 @@
 	url = https://github.com/GStreamer/orc.git
 [submodule "vkd3d-proton"]
 	path = vkd3d-proton
-	url = https://github.com/HansKristian-Work/vkd3d-proton
+	url = https://github.com/HansKristian-Work/vkd3d-proton.git
 [submodule "OpenXR-SDK"]
 	path = OpenXR-SDK
-	url = https://github.com/KhronosGroup/OpenXR-SDK
+	url = https://github.com/KhronosGroup/OpenXR-SDK.git
 [submodule "dxvk-nvapi"]
 	path = dxvk-nvapi
-	url = https://github.com/jp7677/dxvk-nvapi
+	url = https://github.com/jp7677/dxvk-nvapi.git
 [submodule "vkd3d"]
 	path = vkd3d
-	url = https://github.com/ValveSoftware/vkd3d
+	url = https://github.com/ValveSoftware/vkd3d.git
 [submodule "Vulkan-Headers"]
 	path = Vulkan-Headers
-	url = https://github.com/KhronosGroup/Vulkan-Headers
+	url = https://github.com/KhronosGroup/Vulkan-Headers.git
 [submodule "SPIRV-Headers"]
 	path = SPIRV-Headers
-	url = https://github.com/KhronosGroup/SPIRV-Headers
+	url = https://github.com/KhronosGroup/SPIRV-Headers.git
 [submodule "Vulkan-Loader"]
 	path = Vulkan-Loader
-	url = https://github.com/KhronosGroup/Vulkan-Loader
+	url = https://github.com/KhronosGroup/Vulkan-Loader.git
 [submodule "gst-libav"]
 	path = gst-libav
-	url = https://github.com/GStreamer/gst-libav
+	url = https://github.com/GStreamer/gst-libav.git
 [submodule "ffmpeg"]
 	path = ffmpeg
-	url = https://github.com/FFmpeg/FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
 [submodule "dav1d"]
 	path = dav1d
 	url = https://github.com/videolan/dav1d.git
 [submodule "gst-plugins-rs"]
 	path = gst-plugins-rs
-	url = https://github.com/sdroege/gst-plugin-rs
+	url = https://github.com/sdroege/gst-plugin-rs.git
 [submodule "graphene"]
 	path = graphene
-	url = https://github.com/ebassi/graphene
+	url = https://github.com/ebassi/graphene.git
 [submodule "glslang"]
 	path = glslang
-	url = https://github.com/KhronosGroup/glslang
+	url = https://github.com/KhronosGroup/glslang.git
